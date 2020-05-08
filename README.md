@@ -6,8 +6,10 @@ Alpha C1
 Bc4
 Beta C1
 Ac2
+Bc6
 Bc3
 Ac3
 Ac3
 Ac4
 Bc5
+Ac5
