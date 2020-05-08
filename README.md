@@ -1,2 +1,3 @@
 # GIT-PRACTICE-REPOSITORY
 Beta C1
+Beta c2
